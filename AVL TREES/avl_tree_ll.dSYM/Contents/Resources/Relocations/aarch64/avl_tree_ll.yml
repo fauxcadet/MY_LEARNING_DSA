@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sourav/Desktop/DSA udemy/AVL TREES/avl_tree_ll'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z10nodeheightP4node, symObjAddr: 0x0, symBinAddr: 0x1000038B4, symSize: 0xF4 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _root, symObjAddr: 0x6438, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x2E1F, offset: 0x2E1F, size: 0x8, addend: 0x0, symName: __Z10nodeheightP4node, symObjAddr: 0x0, symBinAddr: 0x1000038B4, symSize: 0xF4 }
+  - { offsetInCU: 0x2E67, offset: 0x2E67, size: 0x8, addend: 0x0, symName: __Z13balancefactorP4node, symObjAddr: 0xF4, symBinAddr: 0x1000039A8, symSize: 0xC4 }
+  - { offsetInCU: 0x2EAF, offset: 0x2EAF, size: 0x8, addend: 0x0, symName: __Z10llrotationP4node, symObjAddr: 0x1B8, symBinAddr: 0x100003A6C, symSize: 0x9C }
+  - { offsetInCU: 0x2EF7, offset: 0x2EF7, size: 0x8, addend: 0x0, symName: __Z10lrrotationP4node, symObjAddr: 0x254, symBinAddr: 0x100003B08, symSize: 0xCC }
+  - { offsetInCU: 0x2F3F, offset: 0x2F3F, size: 0x8, addend: 0x0, symName: __Z10rrrotationP4node, symObjAddr: 0x320, symBinAddr: 0x100003BD4, symSize: 0x9C }
+  - { offsetInCU: 0x2F87, offset: 0x2F87, size: 0x8, addend: 0x0, symName: __Z10rlrotationP4node, symObjAddr: 0x3BC, symBinAddr: 0x100003C70, symSize: 0x9C }
+  - { offsetInCU: 0x2FCF, offset: 0x2FCF, size: 0x8, addend: 0x0, symName: __Z7RinsertP4nodei, symObjAddr: 0x458, symBinAddr: 0x100003D0C, symSize: 0x228 }
+  - { offsetInCU: 0x3017, offset: 0x3017, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x680, symBinAddr: 0x100003F34, symSize: 0x60 }
+...
