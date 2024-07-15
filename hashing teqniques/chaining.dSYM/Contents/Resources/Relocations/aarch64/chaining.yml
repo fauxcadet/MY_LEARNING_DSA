@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sourav/Desktop/DSA udemy/hashing teqniques/chaining'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z12sortedinsertPP4nodei, symObjAddr: 0x0, symBinAddr: 0x100003C80, symSize: 0x134 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _first, symObjAddr: 0x5C18, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x82, offset: 0x82, size: 0x8, addend: 0x0, symName: _second, symObjAddr: 0x5C20, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0x97, offset: 0x97, size: 0x8, addend: 0x0, symName: _third, symObjAddr: 0x5C28, symBinAddr: 0x100008010, symSize: 0x0 }
+  - { offsetInCU: 0xAC, offset: 0xAC, size: 0x8, addend: 0x0, symName: _head, symObjAddr: 0x5C30, symBinAddr: 0x100008018, symSize: 0x0 }
+  - { offsetInCU: 0x2E4D, offset: 0x2E4D, size: 0x8, addend: 0x0, symName: __Z12sortedinsertPP4nodei, symObjAddr: 0x0, symBinAddr: 0x100003C80, symSize: 0x134 }
+  - { offsetInCU: 0x2EAD, offset: 0x2EAD, size: 0x8, addend: 0x0, symName: __Z7LsearchP4nodei, symObjAddr: 0x134, symBinAddr: 0x100003DB4, symSize: 0xA0 }
+  - { offsetInCU: 0x2EF5, offset: 0x2EF5, size: 0x8, addend: 0x0, symName: __Z4hashi, symObjAddr: 0x1D4, symBinAddr: 0x100003E54, symSize: 0x24 }
+  - { offsetInCU: 0x2F21, offset: 0x2F21, size: 0x8, addend: 0x0, symName: __Z6InsertPP4nodei, symObjAddr: 0x1F8, symBinAddr: 0x100003E78, symSize: 0x4C }
+  - { offsetInCU: 0x2F65, offset: 0x2F65, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x244, symBinAddr: 0x100003EC4, symSize: 0xBC }
+...
